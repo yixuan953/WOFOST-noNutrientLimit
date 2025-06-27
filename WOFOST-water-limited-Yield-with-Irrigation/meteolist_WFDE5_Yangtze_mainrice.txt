@@ -1,0 +1,9 @@
+/lustre/nobackup/WUR/ESG/zhou111/WOFOST-NPcycling/Data/CaseStudy_Meteo/Yangtze/ 1981 2019 36 /lustre/nobackup/WUR/ESG/zhou111/WOFOST-NPcycling/Data/CaseStudy_Mask/Yangtze/Yangtze_mainrice_mask.nc
+Yangtze_Tmin_daily_1981-2019.nc  TMIN tasmin
+Yangtze_Tmax_daily_1981-2019.nc  TMAX tasmax
+Yangtze_SWdown_daily_1981-2019.nc  RADIATION SWdown
+Yangtze_Prec_daily_1981-2019.nc  RAIN Prec
+Yangtze_Wind_daily_1981-2019.nc  WINDSPEED Wind
+Yangtze_Vap_daily_1981-2019.nc  VAPOUR Vapour
+Yangtze_N_dep_daily_1981-2019.nc  NDEP N_total_dep
+Yangtze_P_dep_daily_1981-2019.nc  PDEP P_total_dep

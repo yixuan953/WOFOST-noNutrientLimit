@@ -1,0 +1,1 @@
+/lustre/nobackup/WUR/ESG/zhou111/WOFOST-withoutNPLimit/ Crop/rice_IR72.cab Soil/ec3.new  Management/Yp_mg.dat  Site/Yp.site 03-05 1 /lustre/nobackup/WUR/ESG/zhou111/WOFOST-withoutNPLimit/Output/Indus_Yp_mainrice_Daily.csv /lustre/nobackup/WUR/ESG/zhou111/WOFOST-withoutNPLimit/Output/Indus_Yp_mainrice_Annual.csv
