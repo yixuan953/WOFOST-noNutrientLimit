@@ -21,7 +21,7 @@ int main(int argc, char **argv)
     Green *wipe;             // 声明一个指向Green类型的指针，Green可能是一个用户定义的数据类型。
 
 
-    // maize-150; wheat-300; rice-180; soybean-140
+    // maize-150; wheat-300; rice-180; soybean-140; secondrice-140;
     int CycleLength = 180; // 声明一个整型变量CycleLength并初始化为300，可能表示一个周期的长度。
     int NumberOfFiles;     // 声明一个整型变量NumberOfFiles，可能用来存储文件的数量。
     int Emergence;         // 声明一个整型变量Emergence，其具体用途不明。

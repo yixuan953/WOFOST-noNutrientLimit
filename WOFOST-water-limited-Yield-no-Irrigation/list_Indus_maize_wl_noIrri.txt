@@ -1,0 +1,1 @@
+/lustre/nobackup/WUR/ESG/zhou111/WOFOST-withoutNPLimit/ Crop/maize_tropical.cab Soil/ec3.new  Management/Yp_mg.dat  Site/Yp.site 03-05 0 /lustre/nobackup/WUR/ESG/zhou111/WOFOST-withoutNPLimit/Output/Indus_wl_noIrri_maize_Daily.csv /lustre/nobackup/WUR/ESG/zhou111/WOFOST-withoutNPLimit/Output/Indus_wl_noIrri_maize_Annual.csv
