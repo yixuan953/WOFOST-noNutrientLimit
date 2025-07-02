@@ -1,0 +1,9 @@
+/lustre/nobackup/WUR/ESG/zhou111/WOFOST-withoutNPLimit/CaseStudy_Meteo/Rhine/ 1981 2019 36 /lustre/nobackup/WUR/ESG/zhou111/WOFOST-withoutNPLimit/CaseStudy_Mask/Rhine/Rhine_maize_mask.nc
+Rhine_Tmin_daily_1981-2019.nc  TMIN tasmin
+Rhine_Tmax_daily_1981-2019.nc  TMAX tasmax
+Rhine_SWdown_daily_1981-2019.nc  RADIATION SWdown
+Rhine_Prec_daily_1981-2019.nc  RAIN Prec
+Rhine_Wind_daily_1981-2019.nc  WINDSPEED Wind
+Rhine_Vap_daily_1981-2019.nc  VAPOUR Vapour
+Rhine_N_dep_daily_1981-2019.nc  NDEP N_total_dep
+Rhine_P_dep_daily_1981-2019.nc  PDEP P_total_dep

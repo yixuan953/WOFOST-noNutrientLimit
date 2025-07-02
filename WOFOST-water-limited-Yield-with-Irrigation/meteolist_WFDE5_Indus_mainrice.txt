@@ -1,0 +1,9 @@
+/lustre/nobackup/WUR/ESG/zhou111/WOFOST-withoutNPLimit/CaseStudy_Meteo/Indus/ 1981 2019 36 /lustre/nobackup/WUR/ESG/zhou111/WOFOST-withoutNPLimit/CaseStudy_Mask/Indus/Indus_mainrice_mask.nc
+Indus_Tmin_daily_1981-2019.nc  TMIN tasmin
+Indus_Tmax_daily_1981-2019.nc  TMAX tasmax
+Indus_SWdown_daily_1981-2019.nc  RADIATION SWdown
+Indus_Prec_daily_1981-2019.nc  RAIN Prec
+Indus_Wind_daily_1981-2019.nc  WINDSPEED Wind
+Indus_Vap_daily_1981-2019.nc  VAPOUR Vapour
+Indus_N_dep_daily_1981-2019.nc  NDEP N_total_dep
+Indus_P_dep_daily_1981-2019.nc  PDEP P_total_dep

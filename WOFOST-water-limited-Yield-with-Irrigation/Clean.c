@@ -463,10 +463,10 @@ void CleanIrri(Nutri *Fert)
         }
         free(Irrigation_Rate[j]);
         free(Sow_date[j]);
-        free(Irri_time_count[j]);
+       // free(Irri_time_count[j]);
     }
 
     free(Irrigation_Rate);
     free(Sow_date);
-    free(Irri_time_count);
+    //free(Irri_time_count);
 }

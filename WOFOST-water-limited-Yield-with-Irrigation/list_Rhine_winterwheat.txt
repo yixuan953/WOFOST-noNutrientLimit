@@ -1,0 +1,1 @@
+/lustre/nobackup/WUR/ESG/zhou111/WOFOST-withoutNPLimit/ Crop/wwh104.cab Soil/ec3.new  Management/Yp_mg.dat  Site/Yp.site 03-05 0 /lustre/nobackup/WUR/ESG/zhou111/WOFOST-withoutNPLimit/Output/Rhine_wl_withIrri_winterwheat_Daily.csv /lustre/nobackup/WUR/ESG/zhou111/WOFOST-withoutNPLimit/Output/Rhine_wl_withIrri_winterwheat_Annual.csv

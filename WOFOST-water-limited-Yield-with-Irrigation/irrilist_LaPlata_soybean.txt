@@ -1,0 +1,2 @@
+/lustre/nobackup/WUR/ESG/zhou111/WOFOST-withoutNPLimit/CaseStudy_Irrigation/LaPlata/ 1981 2016 36 /lustre/nobackup/WUR/ESG/zhou111/WOFOST-withoutNPLimit/CaseStudy_Mask/LaPlata/LaPlata_soybean_mask.nc
+LaPlata_soybean_monthly_Irri_Rate.nc  IRRIRATE Irrigation_Rate

@@ -1,0 +1,2 @@
+/lustre/nobackup/WUR/ESG/zhou111/WOFOST-withoutNPLimit/CaseStudy_Irrigation/Rhine/ 1981 2016 36 /lustre/nobackup/WUR/ESG/zhou111/WOFOST-withoutNPLimit/CaseStudy_Mask/Rhine/Rhine_maize_mask.nc
+Rhine_maize_monthly_Irri_Rate.nc  IRRIRATE Irrigation_Rate

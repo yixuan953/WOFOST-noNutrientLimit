@@ -1,0 +1,8 @@
+/lustre/nobackup/WUR/ESG/zhou111/WOFOST-withoutNPLimit/CaseStudy_NPInput/Indus/ 1980 2020 36 /lustre/nobackup/WUR/ESG/zhou111/WOFOST-withoutNPLimit/CaseStudy_Mask/Indus/Indus_maize_mask.nc
+Indus_maize_NPinput_1980-2020.nc  RESRATIO Res_return_ratio
+Indus_maize_NPinput_1980-2020.nc  P_INORG Inorg_P_appRate
+Indus_maize_NPinput_1980-2020.nc  P_MANURE Manure_P_appRate
+Indus_maize_NPinput_1980-2020.nc  N_OTHERINOG Other_inorg_N_appRate
+Indus_maize_NPinput_1980-2020.nc  N_UREA Urea_inorg_N_appRate
+Indus_maize_NPinput_1980-2020.nc  N_MANURE Manure_N_appRate
+Indus_maize_NPinput_1980-2020.nc  EFNOX EF_NOx

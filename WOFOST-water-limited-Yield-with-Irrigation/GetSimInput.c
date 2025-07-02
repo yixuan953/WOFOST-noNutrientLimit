@@ -104,12 +104,12 @@ int GetSimInput(char *list) /* 获取模拟输入数据 */
         memset(Grid->output_annual, '\0', MAX_STRING);
         memset(Grid->start, '\0', MAX_STRING);
 
-        strncpy(Grid->output_daily, output_daily, strlen(output_daily)); // Name og output file // 设置输出文件名
-        strncpy(Grid->output_annual, output_annual, strlen(output_annual)); // Name og output file // 设置输出文件名
+        strncpy(Grid->output_daily, output_daily, strlen(output_daily)); // Name of output file // 设置输出文件名
+        strncpy(Grid->output_annual, output_annual, strlen(output_annual)); // Name of output file // 设置输出文件名
         strncpy(Grid->start, start, strlen(start));    // Starting string month day of the simulations// 设置模拟的开始月日
 
         Grid->file_DO = count++;        // number of elements in Grid carousel// 设置Grid轮询中的元素数量
-        Grid->file_AO = count;        // number of elements in Grid carousel// 设置Grid轮询中的元素数量
+        Grid->file_AO = count++;        // number of elements in Grid carousel// 设置Grid轮询中的元素数量
         Grid->emergence = Emergence; // Start the simulations at emergence (1) or at sowing (0)// 设置模拟开始时是在发芽(1)还是在播种(0)
         Grid->crp->Sowing = 0;
         Grid->crp->Emergence = 0; // Crop emergence has not yet occurred// 设置作物发芽尚未发生

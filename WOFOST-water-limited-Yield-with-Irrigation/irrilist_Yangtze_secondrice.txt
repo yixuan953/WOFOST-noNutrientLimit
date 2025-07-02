@@ -1,0 +1,2 @@
+/lustre/nobackup/WUR/ESG/zhou111/WOFOST-withoutNPLimit/CaseStudy_Irrigation/Yangtze/ 1981 2016 36 /lustre/nobackup/WUR/ESG/zhou111/WOFOST-withoutNPLimit/CaseStudy_Mask/Yangtze/Yangtze_secondrice_mask.nc
+Yangtze_secondrice_monthly_Irri_Rate.nc  IRRIRATE Irrigation_Rate

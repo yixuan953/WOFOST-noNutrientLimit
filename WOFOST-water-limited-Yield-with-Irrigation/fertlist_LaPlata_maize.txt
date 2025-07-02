@@ -1,0 +1,8 @@
+/lustre/nobackup/WUR/ESG/zhou111/WOFOST-withoutNPLimit/CaseStudy_NPInput/LaPlata/ 1980 2020 36 /lustre/nobackup/WUR/ESG/zhou111/WOFOST-withoutNPLimit/CaseStudy_Mask/LaPlata/LaPlata_maize_mask.nc
+LaPlata_maize_NPinput_1980-2020.nc  RESRATIO Res_return_ratio
+LaPlata_maize_NPinput_1980-2020.nc  P_INORG Inorg_P_appRate
+LaPlata_maize_NPinput_1980-2020.nc  P_MANURE Manure_P_appRate
+LaPlata_maize_NPinput_1980-2020.nc  N_OTHERINOG Other_inorg_N_appRate
+LaPlata_maize_NPinput_1980-2020.nc  N_UREA Urea_inorg_N_appRate
+LaPlata_maize_NPinput_1980-2020.nc  N_MANURE Manure_N_appRate
+LaPlata_maize_NPinput_1980-2020.nc  EFNOX EF_NOx

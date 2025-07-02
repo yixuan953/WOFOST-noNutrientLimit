@@ -79,6 +79,7 @@ extern void RateCalcultionNutrients(); // 营养素速率计算函数
 extern int GetAfgenTables();  // 获取Afgen表的函数
 extern int GetMeteoData();    // 获取气象数据的函数
 extern int FillAfgenTables(); // 填充Afgen表的函数
+extern int GetIrriData();
 
 extern void GetCropData();         // 获取作物数据的函数
 extern void FillCropVariables();   // 填充作物变量的函数

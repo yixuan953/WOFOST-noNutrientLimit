@@ -171,9 +171,8 @@ int main(int argc, char **argv)
 
         head_irri = Irri;
         Irri = Irri->next;
-        CleanIrri(head_irri);
-        free(head_irri);
-
+        // CleanIrri(head_irri);
+        // free(head_irri);
     }
     
     // Reading fertilization data
@@ -436,6 +435,5 @@ int main(int argc, char **argv)
     /* Go back to the beginning of the list */ /* 返回到列表的开始 */
     Grid = initial;
     Clean(Grid); // 清理Grid结构
-
     return 1;
 }
