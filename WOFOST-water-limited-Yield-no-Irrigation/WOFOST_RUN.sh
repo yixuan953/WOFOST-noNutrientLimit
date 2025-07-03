@@ -17,6 +17,10 @@ module load netcdf
 #----------------------------Run WOFOST simulations-----------------------
 # echo "Current directory: $(pwd)"
 
-./wofost_wl_no_irri list_Yangtze_mainrice_wl_no_irri.txt meteolist_WFDE5_Yangtze_mainrice.txt 
-./wofost_wl_no_irri list_LaPlata_mainrice_wl_no_irri.txt meteolist_WFDE5_LaPlata_mainrice.txt 
-./wofost_wl_no_irri list_Indus_mainrice_wl_no_irri.txt meteolist_WFDE5_Indus_mainrice.txt 
+# ./wofost_wl_no_irri list_Yangtze_mainrice_wl_no_irri.txt meteolist_WFDE5_Yangtze_mainrice.txt 
+# ./wofost_wl_no_irri list_LaPlata_mainrice_wl_no_irri.txt meteolist_WFDE5_LaPlata_mainrice.txt 
+# ./wofost_wl_no_irri list_Indus_mainrice_wl_no_irri.txt meteolist_WFDE5_Indus_mainrice.txt 
+
+./wofost_wl_no_irri list_Rhine_maize_wl_no_irri.txt meteolist_WFDE5_Rhine_maize.txt 
+
+# ./wofost_wl_no_irri list_Rhine_winterwheat_wl_no_irri.txt meteolist_WFDE5_Rhine_winterwheat.txt 

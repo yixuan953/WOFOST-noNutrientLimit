@@ -19,7 +19,7 @@ module load netcdf
 
 #./wofost_Yp list_Yangtze_mainrice_Yp.txt meteolist_WFDE5_Yangtze_mainrice.txt 
 #./wofost_Yp list_Indus_mainrice_Yp.txt meteolist_WFDE5_Indus_mainrice.txt 
-./wofost_Yp list_LaPlata_mainrice_Yp.txt meteolist_WFDE5_LaPlata_mainrice.txt 
+#./wofost_Yp list_LaPlata_mainrice_Yp.txt meteolist_WFDE5_LaPlata_mainrice.txt 
 
 # ./wofost_Yp list_Yangtze_maize_Yp.txt meteolist_WFDE5_Yangtze_maize.txt 
 # ./wofost_Yp list_Rhine_maize_Yp.txt meteolist_WFDE5_Rhine_maize.txt 
@@ -30,7 +30,7 @@ module load netcdf
 # ./wofost_Yp list_LaPlata_soybean_Yp.txt meteolist_WFDE5_LaPlata_soybean.txt  
 
 # ./wofost_Yp list_Yangtze_winterwheat_Yp.txt meteolist_WFDE5_Yangtze_winterwheat.txt 
-# ./wofost_Yp list_Rhine_winterwheat_Yp.txt meteolist_WFDE5_Rhine_winterwheat.txt 
+./wofost_Yp list_Rhine_winterwheat_Yp.txt meteolist_WFDE5_Rhine_winterwheat.txt 
 # ./wofost_Yp list_LaPlata_winterwheat_Yp.txt meteolist_WFDE5_LaPlata_winterwheat.txt
 # ./wofost_Yp list_Indus_winterwheat_Yp.txt meteolist_WFDE5_Indus_winterwheat.txt
 
